@@ -1,0 +1,22 @@
+@media (max-width: 1280px) {
+    body {
+      background-color: lightblue;
+      color: black;
+    }
+    a:hover {
+        color: chocolate;
+    }
+    a {
+        color: black;
+    }
+  }
+
+@media (max-width: 720px) {
+    body {
+        background-color: #1b325f;
+        color: #ffffff;
+    }
+    a {
+        color: #ffffff;
+    }
+}
